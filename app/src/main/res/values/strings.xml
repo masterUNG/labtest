@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">labtest</string>
+    <string name="app_name">LabTest</string>
+    <string name="full_name">ภัทราวุธ สุขแก้ว</string>
+    <string name="No_name">591-40-0139</string>
 </resources>
