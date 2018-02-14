@@ -28,7 +28,7 @@ public class MainFragment extends Fragment{
             @Override
             public void onClick(View view) {
                 getActivity().getSupportFragmentManager().beginTransaction()
-                        .replace(R.id.contentMainFragment, new MainFragment())
+                        .replace(R.id.contentMainFragment, new CalculateFragment())
                         .addToBackStack(null)
                         .commit();
             }
